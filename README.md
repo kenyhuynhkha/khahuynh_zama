@@ -1,30 +1,33 @@
-# khahuynh_zamaCommit 1 line
-Commit 2 line
-Commit 3 line
-Commit 4 line
-Commit 5 line
-Commit 6 line
-Commit 7 line
-Commit 8 line
-Commit 9 line
-Commit 10 line
-Commit 11 line
-Commit 12 line
-Commit 13 line
-Commit 14 line
-Commit 15 line
-Commit 1 line
-Commit 2 line
-Commit 3 line
-Commit 4 line
-Commit 5 line
-Commit 6 line
-Commit 7 line
-Commit 8 line
-Commit 9 line
-Commit 10 line
-Commit 11 line
-Commit 12 line
-Commit 13 line
-Commit 14 line
-Commit 15 line
+<h1 align="center">Hi 👋 I'm Kha</h1> <h3 align="center">Web3 Contributor | Testnet Hunter | Community Builder</h3>
+🚀 About Me
+
+🌍 Ambassador for multiple crypto projects
+
+🧪 Active Testnet Participant
+
+📢 Content Creator on X
+
+🧠 Interested in AI, Blockchain, DePIN
+
+🛠 Focus
+
+Web3 • Blockchain • Testnet • Community Growth • Crypto Research
+
+📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=manhdz9990&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manhdz9990&theme=tokyonight"/>
+</p>
+
+🚀 Projects
+
+• Shelby — Testnet Participant
+• Melody — Community Contributor / KOL
+• Acyper — Contributor
+• ZAMA — OG
+
+🌐 Connect With Me
+
+🐦 X: https://x.com/KhaHuynh1995
+
+💬 Discord: khoi7870
